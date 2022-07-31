@@ -1,0 +1,9 @@
+This is b1.txt
+lets check in in master branch.
+num = 0
+num = input(int("Enter a number"))
+for(i=1; i<=10; i++)
+{
+num = $num * $i
+print("$num * $i = " $num * $i)
+}
